@@ -12,8 +12,6 @@ I enjoy gaming, espcially games which involve character building and the pursuit
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [Cowtipping](http://cowtipping.co.uk)
 *   ✉️  You can contact me at [me@adienunn.com](mailto:me@adienunn.com)
-*   🧠  I'm learning PERN stack 😎
-*   🤝  I'm open to collaborating on having a beer. Also making things I'll find interesting.
 *   ⚡  You look nice today.
  
 ### Skills

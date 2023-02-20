@@ -4,14 +4,32 @@ Hi 👋 My name is Adie Nunn
 Full-stack web developer
 ------------------------
 
-Studying at School Of Code.  
+Ex-School Of Code bootcamper, all bright-eyed and busy-tailed, ready to be corrupted by the tech world.  
 Maker of interesting things.  
 I have a background in the arts but instead of being the one scanning tickets, I'd rather be making the ticket-scanning apps.  
 I enjoy gaming, espcially games which involve character building and the pursuit of loot and multiple spreadsheets to keep track of your progress, as well as RPGs, immersive sims and roguelikes. Also like going to see live music in dinky venues, and having a warm beer in a cold pub. Wait...
 
+Currently working on...
+-----------------------
+• Updating a legacy codebase for security - PHP v5 to v8.  
+• Using it as an opportunity to learn Apache and MySQL as well as PHP.  
+• Converting a non-response site to make it responsive and accessible.
+
+Currently learning...
+---------------------
+Docker, Firebase, AWS and Microsoft Azure products, C#, Unity
+
+Other activities of interest
+----------------------
+Meet-ups: Attendee of London Tech Network, ReactJS Girls, JSMonthly, London Node.js User Group  
+Writing: Previous experience freelance writing music reviews, interviews and features for the NME, The Scotsman and others, as well as writing my own fanzines. Volunteer sub-editor for drownedinsound.com.  
+Record Label: Partner and founder of Tigertrap Records, organising the release of vinyl and digital downloads.  
+QA: Part-time contractor for game testing company DAQA.
+
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [Cowtipping](http://cowtipping.co.uk)
 *   ✉️  You can contact me at [me@adienunn.com](mailto:me@adienunn.com)
+*   👊  Let's connect on [LinkedIn](https://www.linkedin.com/in/adienunn/)
 *   ⚡  You look nice today.
  
 ### Skills

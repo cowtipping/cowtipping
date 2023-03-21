@@ -1,37 +1,151 @@
-Hi 👋 My name is Adie Nunn
-==========================
+# Hi 👋 My name is Adie Nunn
 
-Full-stack web developer
-------------------------
+## Full-stack web developer
 
-Ex-School Of Code bootcamper, all bright-eyed and busy-tailed, ready to be corrupted by the tech world.  
+I am a bright-eyed and bushy tailed software engineer.  
 Maker of interesting things.  
 I have a background in the arts but instead of being the one scanning tickets, I'd rather be making the ticket-scanning apps.  
 I enjoy gaming, espcially games which involve character building and the pursuit of loot and multiple spreadsheets to keep track of your progress, as well as RPGs, immersive sims and roguelikes. Also like going to see live music in dinky venues, and having a warm beer in a cold pub. Wait...
 
-Currently working on...
------------------------
+## Projects
+
+<details><summary>Portfolio</summary>
+
+[Portfolio Frontend](https://github.com/cowtipping/cowtippingV2-frontend)  
+[Portfolio Backend](https://github.com/cowtipping/cowtippingV2-backend)
+
+A hub of my stuff. It's a bit like this page but fancier-looking.  
+The drawing is of me by Pen Ward (Adventure Time).
+
+Tech:
+
+- TypeScript
+- React
+- MUI
+- Node
+
+</details>
+
+<details><summary>LetChat - School Of Code Final Project</summary>
+
+[LetChat Frontend](https://github.com/cowtipping/Git-Gud-LetChat-Frontend)  
+[LetChat Backend](https://github.com/cowtipping/Git-Gud-LetChat-Backend)
+
+An app to facilitate better communication between landlords and tenants.  
+I contributed to all of the design process from ideation to user stories to Figma designs. I also implemented user authentication/authorisation with Firebase, wrote components, front and backend tests, documentation and added accessibility.  
+We worked in a team of six in an Agile way doing weekly sprints and I lead some of the daily standups and retros.
+
+Tech:
+
+- NextJS
+- TypeScript
+- Firebase
+- Tailwind
+- Express
+- Jest
+- React Testing Library
+- Cypress
+- Supertest
+
+</details>
+
+<details><summary>Just The Ticket - School Of Code Week 9 Project</summary>
+
+[Just The Ticket Frontend](https://github.com/cowtipping/Just-The-Ticket-Frontend)  
+[Just The Ticket Backend](https://github.com/cowtipping/Just-The-Ticket-Backend)
+
+The task was to develop something to help fellow bootcampers. We noticed people were generally quite bad at asking questions (no offence), often just popping a question in Slack like "help needed in room 30". We designed the app to help people ask better questions - what's the problem, what have you tried so far, give us some code, give us any error messages.  
+I worked on the design and ideation, set up the initial shell of the app, got basic state and data-fetching functionality working in React and wrote all the frontend tests and a few integration tests.  
+The idea was it should be like a friendlier version of Stack Overflow but really it's more like a ticketing system, hence the name (a coooool pun).
+
+Tech:
+
+- React
+- Express
+- React Testing Library
+- Jest
+- Supertest
+
+</details>
+
+<details><summary>Lootbox Simulator</summary>
+
+[Lootbox Simulator](https://github.com/cowtipping/lootbox-simulator)
+
+Just a dumb thing I made in an afternoon when I was bored. Look, I'm a gamer. I just like to click on things.  
+It was my first time setting up a React app with Vite so it was also a good opportunity to give Vitest a go.
+
+Tech:
+
+- React
+- TypeScript
+- Cypress
+- Vitest
+
+</details>
+
+<details><summary>Click The Nuclear Waste</summary>
+
+[Click The Nuclear Waste](https://github.com/cowtipping/clicker)
+
+An early side-project to help me learn React. I was struggling a bit with the intial React concepts when learning them at School Of Code so I made something to help cement them in my head.  
+It's basically a simple [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) clone.
+
+Tech:
+
+- React
+
+</details>
+
+<details><summary>Who's That Pokemon?</summary>
+
+[Who's That Pokemon?](https://github.com/cowtipping/whos-that-pokemon)
+
+The PokeAPI is the best API. FACT.  
+An early project to play with APIs. I keep coming back to it from time to time to give it little updates. It's the project which won't die.
+
+Tech:
+
+- Originally vanilla JavaScript, converted to TypeScript
+
+</details>
+
+<details><summary>Genshin Impact Talent Book Farm</summary>
+
+[Genshin Impact Talent Book Farm](https://github.com/cowtipping/genshin-book-farm)
+
+Based on a game I play sometimes. As it's a live service game and wannabe MMO it has things you can do only on certain days of the week. I originally made a spreadsheet (as I am wont to do) to keep track characters I could get items for on which days. To make my life slightly simplier I made this app just so I could see the characters at a glance. Unfortunately as soon as I put it online I got bored of the game so it hasn't been getting updates other than when new characters come out, but I have started playing it again recently so I guess I could refactor it and generally make it look better.  
+I'ma warn you - this was my first JS project so that code is uuuuuugly.
+
+Tech:
+
+- JavaScript
+
+</details>
+
+## Currently working on...
+
 • Updating a legacy codebase for security - PHP v5 to v8.  
 • Using it as an opportunity to learn Apache and MySQL as well as PHP.  
 • Converting a non-response site to make it responsive and accessible.
 
-Currently learning...
----------------------
+## Currently learning...
+
 Docker, Firebase, AWS and Microsoft Azure products, C#, Unity
 
-Other activities of interest
-----------------------
-Meet-ups: Attendee of London Tech Network, ReactJS Girls, JSMonthly, London Node.js User Group  
+## Other activities of interest
+
+Meet-ups: Attendee of London Tech Network, ReactJS Girls, JSMonthly, London Node.js User Group, Product Pints  
 Writing: Previous experience freelance writing music reviews, interviews and features for the NME, The Scotsman and others, as well as writing my own fanzines. Volunteer sub-editor for drownedinsound.com.  
 Record Label: Partner and founder of Tigertrap Records, organising the release of vinyl and digital downloads.  
-QA: Part-time contractor for game testing company DAQA.
+QA: Contractor for game testing company DAQA.
 
-*   🌍  I'm based in London, UK
-*   🖥️  See my portfolio at [Cowtipping](http://cowtipping.co.uk)
-*   ✉️  You can contact me at [me@adienunn.com](mailto:me@adienunn.com)
-*   👊  Let's connect on [LinkedIn](https://www.linkedin.com/in/adienunn/)
-*   ⚡  You look nice today.
- 
+- 🌍  I'm based in London, UK
+- 🖥️  See my portfolio at [Cowtipping](http://cowtipping.co.uk)
+- ✉️  You can contact me at [me@adienunn.com](mailto:me@adienunn.com)
+- 👊  Let's connect on [LinkedIn](https://www.linkedin.com/in/adienunn/)
+- ⚡  You look nice today.
+
 ### Skills
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -48,7 +162,7 @@ QA: Part-time contractor for game testing company DAQA.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 ### Socials
 

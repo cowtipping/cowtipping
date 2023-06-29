@@ -125,9 +125,7 @@ Tech:
 
 ## Currently working on...
 
-• Updating a legacy codebase for security - PHP v5 to v8.  
-• Using it as an opportunity to learn Apache and MySQL as well as PHP.  
-• Converting a non-response site to make it responsive and accessible.
+• It's a secret
 
 ## Currently learning...
 
@@ -135,7 +133,7 @@ Docker, Firebase, AWS and Microsoft Azure products, C#, Unity
 
 ## Other activities of interest
 
-Meet-ups: Attendee of London Tech Network, ReactJS Girls, JSMonthly, London Node.js User Group, Product Pints  
+Meet-ups: Attendee of various tech meetups.
 Writing: Previous experience freelance writing music reviews, interviews and features for the NME, The Scotsman and others, as well as writing my own fanzines. Volunteer sub-editor for drownedinsound.com.  
 Record Label: Partner and founder of Tigertrap Records, organising the release of vinyl and digital downloads.  
 QA: Contractor for game testing company DAQA.

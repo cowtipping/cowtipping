@@ -4,8 +4,8 @@
 
 I am a bright-eyed and bushy tailed software engineer.  
 Maker of interesting things.  
-I have a background in the arts but instead of being the one scanning tickets, I'd rather be making the ticket-scanning apps.  
-I enjoy gaming, espcially games which involve character building and the pursuit of loot and multiple spreadsheets to keep track of your progress, as well as RPGs, immersive sims and roguelikes. Also like going to see live music in dinky venues, and having a warm beer in a cold pub. Wait...
+I have a background in the arts but instead of being the one scanning tickets, I'd rather be making the ticket-scanning apps. (That's my 10-second intro. I hope you enjoyed it.)  
+I enjoy gaming, espcially games which involve character building and the pursuit of loot and multiple spreadsheets to keep track of your progress, as well as RPGs, immersive sims and roguelikes. Also like going to see live music in dinky venues, and having a warm ~~beer~~ (stopped drinking, innit) orange & lemonade/ginger beer/lime & soda in a cold pub.
 
 ## Projects
 
@@ -129,13 +129,13 @@ Tech:
 
 ## Currently learning...
 
-Docker, Firebase, AWS and Microsoft Azure products, C#, Unity
+Docker, AWS, C#, Unity, Python
 
 ## Other activities of interest
 
 Meet-ups: Attendee of various tech meetups.
 Writing: Previous experience freelance writing music reviews, interviews and features for the NME, The Scotsman and others, as well as writing my own fanzines. Volunteer sub-editor for drownedinsound.com.  
-Record Label: Partner and founder of Tigertrap Records, organising the release of vinyl and digital downloads.  
+Record Label: Co-founder of Tigertrap Records, organising the release of vinyl and digital downloads.  
 QA: Contractor for game testing company DAQA.
 
 - 🌍  I'm based in London, UK

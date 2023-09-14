@@ -142,9 +142,9 @@ Docker, AWS, C#, Unity, Python
 
 ## Other activities of interest
 
-Meet-ups: Attendee of various tech meetups.
+Meet-ups: Attendee of various tech meetups.  
 Writing: Previous experience freelance writing music reviews, interviews and features for the NME, The Scotsman and others, as well as writing my own fanzines. Volunteer sub-editor for drownedinsound.com.  
-Record Label: Co-founder of Tigertrap Records, organising the release of vinyl and digital downloads.  
+Record Label: Co-founder of Tigertrap Records, organising the release of vinyl and digital downloads. Also managed a band.  
 QA: Contractor for game testing company DAQA.
 
 - 🌍  I'm based in London, UK

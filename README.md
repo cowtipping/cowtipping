@@ -136,19 +136,6 @@ Tech:
 
 </details>
 
-<details><summary>Genshin Impact Talent Book Farm</summary>
-
-[Genshin Impact Talent Book Farm](https://github.com/cowtipping/genshin-book-farm)
-
-Based on a game I play sometimes. As it's a live service game and wannabe MMO it has things you can do only on certain days of the week. I originally made a spreadsheet (as I am wont to do) to keep track characters I could get items for on which days. To make my life slightly simplier I made this app just so I could see the characters at a glance. Unfortunately as soon as I put it online I got bored of the game so it hasn't been getting updates other than when new characters come out, but I have started playing it again recently so I guess I could refactor it and generally make it look better.  
-I'ma warn you - this was my first JS project so that code is uuuuuugly.
-
-Tech:
-
-- JavaScript
-
-</details>
-
 ## Currently learning...
 
 Docker, AWS, C#, Unity, Python

@@ -150,5 +150,5 @@ QA: Contractor for game testing company DAQA.
 
 ### Badges
 
-<a href="http://www.github.com/cowtipping"><img src="https://github-readme-stats.vercel.app/api?username=cowtipping&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cowtipping's GitHub stats" /></a>
-<a href="https://github.com/cowtipping" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowtipping&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cowtipping&theme=neon&langs_count=8)  
+![Adie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cowtipping&theme=neon&show_icons=true)  
